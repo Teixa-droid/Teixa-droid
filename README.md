@@ -1,18 +1,9 @@
 
 ## Hey!
-### Hi [Navis Code][website] here 👋
+---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Teixa-droid&show_icons=true&theme=discord_old_blurple)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/NavisCode?color=1DA1F2&label=NavisCode&logo=twitter&style=for-the-badge)](https://twitter.com/NavisCode)
-
-### 💻 Web Developer 🌱Father and Vegan
-
-- 🔭 I’m currently working on a [Courses or YT][website]
-- 🌱 I’m currently learning more about web dev
-- 👯 I’m looking to collaborate webinar,meetup...
-- 💬 Ask me about to be a web dev
-- 😄 Pronouns: 'he/him'
-- ⚡ Fun fact: I love videogames but no time to play (thats fun)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Teixa-droid&layout=compact&show_icons=true&theme=discord_old_blurple)](https://github.com/Teixa-droid/github-readme-stats)
 ---
 
 ### 🚀 Coding
@@ -43,7 +34,3 @@
 
 <br/>
 
----
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Teixa-droid&show_icons=true&theme=discord_old_blurple)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Teixa-droid&layout=compact&show_icons=true&theme=discord_old_blurple)](https://github.com/Teixa-droid/github-readme-stats)
