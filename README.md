@@ -1,5 +1,4 @@
-
-## Hey 👋 !
+<h1 align="center"> ## Hey 👋 !</h1>
 
 <div align="center">
   <img src="https://github.com/Teixa-droid/Teixa-droid/blob/main/gitimages/JKJjW3o.jpg" alt="header"/>
