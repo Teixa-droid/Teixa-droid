@@ -1,5 +1,18 @@
 
 ## Hey!
+<h1 align="center"> 👋 </h1>
+<div align="center">
+  <img src="https://github.com/Ileriayo/ileriayo/blob/master/images/header.gif" alt="header"/>
+</div>
+<p align="center"> (Open for Hiring)</p>
+
+<h2 align="center"> 👨‍💻 Whoami</h2>
+<p align="center">
+  <samp>I'm looking for the opportunity to face new challenges and try to help people through emerging technologies. I see myself as someone ambitious, that is willing to learn anything necessary to solve any problem, and motivated to improve my professional capabilities.
+  </samp>
+</p>
+
+<hr>
 
 ### 🚀 Coding
 
