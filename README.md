@@ -1,10 +1,6 @@
 
 ## Hey!
 
- | <a href="https://github.com/Teixa-droid/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Teixa-droid&show_icons=true&include_all_commits=true&theme=discord_old_blurple&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Teixa-droid/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teixa-droid&layout=compact&theme=discord_old_blurple&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-
 ### 🚀 Coding
 
 <div style="display: inline_block"><br>
@@ -17,3 +13,7 @@
   <img align="center" alt="Teixa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
+
+### 🚀 Coding
+ | <a href="https://github.com/Teixa-droid/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Teixa-droid&show_icons=true&include_all_commits=true&theme=discord_old_blurple&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Teixa-droid/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teixa-droid&layout=compact&theme=discord_old_blurple&hide_border=true" /></a> |
+| ------------- | ------------- |
