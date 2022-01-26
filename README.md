@@ -2,7 +2,7 @@
 <h1 align="center"> Hey everyone👋 !</h1>
 <div align="center">
 </div>
-<p align="center"> (🧠 Estou aprendendo...)</p>
+<p align="center"> (🧠 I'm learning web development)</p>
 <p align="center"> (👩‍💻 Open for Hiring)</p>
 </h1>
 <h2 align="center"> 👨‍💻 Whoami</h2>
