@@ -1,9 +1,10 @@
 ![Logo](https://github.com/Teixa-droid/Teixa-droid/blob/main/gitimages/my.PNG)
 <h1 align="center"> Hey everyone👋 !</h1>
-
 <div align="center">
-  
 </div>
+<p align="center"> (👩‍💻 Trabalho atualmente na/no...)</p>
+<p align="center"> (🧠 Estou aprendendo...)</p>
+<p align="center"> (⚡️ Fatos engraçados...)</p>
 <p align="center"> (Open for Hiring)</p>
 </h1>
 <h2 align="center"> 👨‍💻 Whoami</h2>
