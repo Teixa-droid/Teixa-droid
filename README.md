@@ -10,8 +10,7 @@
   <samp>I'm looking for the opportunity to face new challenges and try to help people through emerging technologies. I see myself as someone ambitious, that is willing to learn anything necessary to solve any problem, and motivated to improve my professional capabilities.
   </samp>
 </p>
-
-<h1 align="center"> 🚀 Coding</h1>
+<h1 align="center"> 🚀 Coding
 <div style="display: inline_block"><br>
   <img align="center" alt="Teixa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Teixa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
