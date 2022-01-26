@@ -1,13 +1,14 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center"> Hey 👋 !</h1>
 
 <div align="center">
-  <img src="https://github.com/Teixa-droid/Teixa-droid/blob/main/gitimages/JKJjW3o.jpg" alt="header"/>
+  
 </div>
 <p align="center"> (Open for Hiring)</p>
 </h1>
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
-  <samp>I'm looking for the opportunity to face new challenges and try to help people through emerging technologies. I see myself as someone ambitious, that is willing to learn anything necessary to solve any problem, and motivated to improve my professional capabilities.
+  <samp>I'm that kind of person who'd rather program a bionic hand than make a web-site just because everyone else has one.
   </samp>
 </p>
 <h2 align="center"> 🚀 Coding
