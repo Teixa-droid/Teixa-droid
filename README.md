@@ -1,10 +1,5 @@
-<img align="left" width="47% src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io" />
-
-<img align="left" width="47% src="https://github-readme-stats.vercel.app/api?username=Teixa-droid&show_icons=true&theme=discord_old_blurple" />
-
-<a href="https://github.com/Teixa-droid/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Teixa-droid&&show_icons=true&theme=discord_old_blurple" alt="Anurag's github stats" /></a> | <a href="https://github.com/Teixa-droid/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teixa-droid&show_icons=true&theme=discord_old_blurple" /></a> |
-
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+<a href="https://github.com/Teixa-droid/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Teixa-droid&&show_icons=true&layout=compact&theme=discord_old_blurple" alt="Anurag's github stats" /></a> | <a href="https://github.com/Teixa-droid/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teixa-droid&show_icons=true&layout=compact&theme=discord_old_blurple" /></a> |
 
 ## Hey!
  
