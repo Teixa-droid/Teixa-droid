@@ -8,7 +8,7 @@
 </h1>
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
-  <samp>I'm that kind of person who'd rather program a bionic hand than make a web-site just because everyone else has one.
+  <samp>I'm that kind of person who prefers programming an bionic arm for a good cause than programming a website just because everyone else has one. I like to make a difference.
   </samp>
 </p>
 <h2 align="center"> 🚀 Coding
