@@ -1,6 +1,6 @@
 
-## Hey!
-<h1 align="center"> 👋 </h1>
+## Hey 👋 !
+
 <div align="center">
   <img src="https://github.com/Teixa-droid/Teixa-droid/blob/main/gitimages/JKJjW3o.jpg" alt="header"/>
 </div>
