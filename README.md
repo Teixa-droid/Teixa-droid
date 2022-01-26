@@ -3,7 +3,7 @@
 <div align="center">
 </div>
 <p align="center"> (🧠 I'm learning web development)</p>
-<p align="center"> (👩‍💻 Open for Hiring)</p>
+<p align="center"> (🔥 Open for Hiring)</p>
 </h1>
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
