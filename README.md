@@ -8,7 +8,7 @@
 </h1>
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
-  <samp>I'm that kind of person who prefers programming an bionic arm for free than programming a website just because everyone has one. I like to make a difference by challenging myself to develop technology for good reasons.
+  <samp>I'm that kind of person who prefers programming an bionic arm for free than programming a website just because everyone has one. I like to make a difference by challenging myself to develop technology for reasons why I believe be important role for society. .
   </samp>
   <div align="center"> 
  <a href="https://discord.gg/gjAFZERH" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
