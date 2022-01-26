@@ -1,7 +1,16 @@
 
 ## Hey!
  
-<a href="https://github.com/Teixa-droid/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Teixa-droid&&show_icons=true&layout=compact&theme=discord_old_blurple" alt="Anurag's github stats" /></a> | <a href="https://github.com/Teixa-droid/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teixa-droid&show_icons=true&layout=compact&theme=discord_old_blurple" /></a> |
+
+#### Top Repositories
+
+
+<a href="https://github.com/Teixa-droid/github-readme-stats">
+  <img align="center" src="https://github.com/Teixa-droid/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Teixa-droid&&show_icons=true&layout=compact&theme=discord_old_blurple" />
+</a>
+<a href="https://github.com/Teixa-droid/Teixa-droid.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teixa-droid&show_icons=true&layout=compact&theme=discord_old_blurple" />
+</a>
 
 ---
 
