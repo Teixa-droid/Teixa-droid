@@ -11,7 +11,6 @@
   </samp>
 </p>
 
-<hr>
 <h1 align="center"> 🚀 Coding</h1>
 <h1 align="center">
 <div style="display: inline_block"><br>
