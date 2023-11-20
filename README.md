@@ -34,7 +34,7 @@
 
  | <a href="https://github.com/Teixa-droid/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Teixa-droid&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Teixa-droid/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teixa-droid&layout=compact&theme=vue&hide_border=true" /></a> |
 | ------------- | ------------- |
- 
-![Snake animation](https://github.com/Teixa-droid/Teixa-droid/blob/output/github-contribution-grid-snake.svg)
+
+![snake animation](https://github.com/Teixa-droid/Teixa-droid/blob/output/github-contribution-grid-snake2.svg)
 
 </h2>
